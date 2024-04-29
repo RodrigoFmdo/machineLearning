@@ -1,2 +1,2 @@
 # Proyecto final para Curso de Machine learning
-## Introducción: El proyecto constará de 3 fases tratará sobre emplear técnicas de machine learning [base de datos](../data/humanEvo.csv)
+## Introducción: El proyecto constará de 3 fases tratará sobre emplear técnicas de machine learning [base de datos](data/humanEvo.csv) [main](src/main.ipynb)
