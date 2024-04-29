@@ -9,4 +9,4 @@ El objetivo será predecir la variable time,que nos dice de hace cuántos millon
 ## Clasificación([classification](src/classification.ipynb))(status: preprocesamiento):
  El objetivo será predecir la  variable 'especie' a la que pertenece un hombre, de acuerdo sus características físicas, fecha a la que pertenece, y su ubicación.
 
-[Cronograma de actividades](extra/shotSchedule.png)
+![Cronograma de actividades](extra/shotSchedule.png)
