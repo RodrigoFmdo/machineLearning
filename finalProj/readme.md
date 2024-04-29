@@ -6,7 +6,7 @@
 ## Regresión([regression.ipynb](src/regression.ipynb))(status: no iniciado):
 El objetivo será predecir la variable time,que nos dice de hace cuántos millones de años data nuestro hombre', dadas sus características físicas y morfológicas.
 
-## Clasificación([classification](src/classification.ipynb))(status: preprocesamiento):
+## Clasificación([classification.ipynb](src/classification.ipynb))(status: preprocesamiento):
  El objetivo será predecir la  variable 'especie' a la que pertenece un hombre, de acuerdo sus características físicas, fecha a la que pertenece, y su ubicación.
 
 ![Cronograma de actividades](img/shotSchedule.png)
